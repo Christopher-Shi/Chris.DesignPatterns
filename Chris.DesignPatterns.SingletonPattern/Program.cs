@@ -6,6 +6,15 @@ namespace Chris.DesignPatterns.SingletonPattern
     {
         static void Main(string[] args)
         {
+            var singleton = Singleton.GetInstance();
+
+            var singletonOne = SingletonOne.instance;
+
+            var singletonTwo = SingletonTwo.instance;
+
+            var multiThreadSingleton = MultiThreadSingleton.GetInstance();
+
+
             Console.WriteLine("Hello World!");
         }
     }
