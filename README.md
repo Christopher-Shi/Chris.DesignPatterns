@@ -20,11 +20,11 @@
 
     C#设计模式(1)——单例模式（Singleton Pattern）Chris.DesignPatterns.SingletonPattern
     
-    C#设计模式(2)——工厂方法模式（Factory Pattern）
+    C#设计模式(2)——工厂方法模式（Factory Pattern）Chris.DesignPatterns.SingletonPattern
     
-    C#设计模式(3)——抽象工厂模式（Abstract Pattern）
+    C#设计模式(3)——抽象工厂模式（Abstract Pattern）Chris.DesignPatterns.AbstractFactory
     
-    C#设计模式(4)——建造模式（Builder Pattern）
+    C#设计模式(4)——建造模式（Builder Pattern）Chris.DesignPatterns.Builder
     
     C#设计模式(5)——原型模式（Prototype Pattern）
 
