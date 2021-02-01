@@ -1,7 +1,10 @@
 ﻿using System;
 
-namespace Chris.DesignPatterns.SingletonPattern
+namespace Chris.DesignPatterns.Singleton
 {
+    /// <summary>
+    /// 单例模式（Singleton Pattern）【创建型】
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

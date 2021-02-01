@@ -18,19 +18,19 @@
 
 ### 创建型：负责对象创建
 
-    C#设计模式(1)——单例模式（Singleton Pattern）Chris.DesignPatterns.SingletonPattern
+    C#设计模式(1)——单例模式（Singleton Pattern）Chris.DesignPatterns.Singleton
     
-    C#设计模式(2)——工厂方法模式（Factory Pattern）Chris.DesignPatterns.SingletonPattern
+    C#设计模式(2)——工厂方法模式（Factory Pattern）Chris.DesignPatterns.Factory
     
     C#设计模式(3)——抽象工厂模式（Abstract Pattern）Chris.DesignPatterns.AbstractFactory
     
     C#设计模式(4)——建造模式（Builder Pattern）Chris.DesignPatterns.Builder
     
-    C#设计模式(5)——原型模式（Prototype Pattern）
+    C#设计模式(5)——原型模式（Prototype Pattern）Chris.DesignPatterns.Prototype
 
 ### 结构型：处理类与对象间的组合
 
-    C#设计模式(6)——适配器模式（Adapter Pattern）
+    C#设计模式(6)——适配器模式（Adapter Pattern）Chris.DesignPatterns.Adapter
     
     C#设计模式(7)——桥接模式（Bridge Pattern）
     

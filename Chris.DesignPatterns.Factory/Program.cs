@@ -4,6 +4,7 @@ using Chris.DesignPatterns.Factory.Factory;
 namespace Chris.DesignPatterns.Factory
 {
     /// <summary>
+    /// 工厂方法模式（Factory Pattern）【创建型】
     /// 客户端调用
     /// </summary>
     class Program

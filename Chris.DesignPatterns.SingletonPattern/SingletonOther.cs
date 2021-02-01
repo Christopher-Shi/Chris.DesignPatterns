@@ -1,4 +1,4 @@
-﻿namespace Chris.DesignPatterns.SingletonPattern
+﻿namespace Chris.DesignPatterns.Singleton
 {
 
     /// <summary>

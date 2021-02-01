@@ -4,6 +4,7 @@ using Chris.DesignPatterns.AbstractFactory.Factory;
 namespace Chris.DesignPatterns.AbstractFactory
 {
     /// <summary>
+    /// 抽象工厂模式（Abstract Pattern）【创建型】
     /// 下面以不同系列房屋的建造为例子演示抽象工厂模式
     /// 因为每个人的喜好不一样，我喜欢欧式的，我弟弟就喜欢现代的
     /// 客户端调用

@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.SingletonPattern", "Chris.DesignPatterns.SingletonPattern\Chris.DesignPatterns.SingletonPattern.csproj", "{F45C77CC-D3E5-451C-9301-CB4ECD5A6654}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Singleton", "Chris.DesignPatterns.SingletonPattern\Chris.DesignPatterns.Singleton.csproj", "{F45C77CC-D3E5-451C-9301-CB4ECD5A6654}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Factory", "Chris.DesignPatterns.Factory\Chris.DesignPatterns.Factory.csproj", "{F24AF0BC-D11A-4B9B-AFE9-BCBFE74D0B03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.AbstractFactory", "Chris.DesignPatterns.AbstractFactory\Chris.DesignPatterns.AbstractFactory.csproj", "{98BC7D7B-3750-4E74-BC3F-EF48F4F4C07B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.AbstractFactory", "Chris.DesignPatterns.AbstractFactory\Chris.DesignPatterns.AbstractFactory.csproj", "{98BC7D7B-3750-4E74-BC3F-EF48F4F4C07B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Builder", "hris.DesignPatterns.Builder\Chris.DesignPatterns.Builder.csproj", "{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Builder", "hris.DesignPatterns.Builder\Chris.DesignPatterns.Builder.csproj", "{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Prototype", "Chris.DesignPatterns.Prototype\Chris.DesignPatterns.Prototype.csproj", "{DD42A4B7-4017-4106-8C18-818EB834E506}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Adapter", "Chris.DesignPatterns.Adapter\Chris.DesignPatterns.Adapter.csproj", "{1BF61152-2CB4-426C-8487-9E9628C1C87C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD42A4B7-4017-4106-8C18-818EB834E506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD42A4B7-4017-4106-8C18-818EB834E506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD42A4B7-4017-4106-8C18-818EB834E506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD42A4B7-4017-4106-8C18-818EB834E506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

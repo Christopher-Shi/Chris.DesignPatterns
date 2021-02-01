@@ -4,6 +4,7 @@ using Chris.DesignPatterns.Builder.Builder;
 namespace Chris.DesignPatterns.Builder
 {
     /// <summary>
+    /// 建造模式（Builder Pattern）【创建型】
     /// 现在人们的生活水平都提高了，有钱了，我今天就以汽车组装为例子
     /// 每台汽车的组装过程都是一致的，所以我们使用同样的构建过程可以创建不同的表示(即可以组装成不同型号的汽车)
     /// 组装汽车、电脑、手机、电视等等负责对象的这些场景都可以应用建造者模式来设计
