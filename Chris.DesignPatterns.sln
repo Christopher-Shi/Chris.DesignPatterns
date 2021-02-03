@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Adapte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Bridge", "Chris.DesignPatterns.Bridge\Chris.DesignPatterns.Bridge.csproj", "{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Decorator", "Chris.DesignPatterns.Decorator\Chris.DesignPatterns.Decorator.csproj", "{0D035304-721F-4352-A249-2796835D6715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Decorator", "Chris.DesignPatterns.Decorator\Chris.DesignPatterns.Decorator.csproj", "{0D035304-721F-4352-A249-2796835D6715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Composite", "Chris.DesignPatterns.Composite\Chris.DesignPatterns.Composite.csproj", "{A371278B-76E1-43B5-964C-69BDE0BA5ECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Composite", "Chris.DesignPatterns.Composite\Chris.DesignPatterns.Composite.csproj", "{A371278B-76E1-43B5-964C-69BDE0BA5ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Facade", "Chris.DesignPatterns.Facade\Chris.DesignPatterns.Facade.csproj", "{6E4B7625-7A80-4C9E-BBBD-F895B03E0758}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Facade", "Chris.DesignPatterns.Facade\Chris.DesignPatterns.Facade.csproj", "{6E4B7625-7A80-4C9E-BBBD-F895B03E0758}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Flyweight", "Chris.DesignPatterns.Flyweight\Chris.DesignPatterns.Flyweight.csproj", "{8F30A405-60A4-4E08-931A-1A918418692B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Flyweight", "Chris.DesignPatterns.Flyweight\Chris.DesignPatterns.Flyweight.csproj", "{8F30A405-60A4-4E08-931A-1A918418692B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Proxy", "Chris.DesignPatterns.Proxy\Chris.DesignPatterns.Proxy.csproj", "{2A6E874A-D0B2-4900-AC10-5599D90E3F2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{8F30A405-60A4-4E08-931A-1A918418692B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F30A405-60A4-4E08-931A-1A918418692B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F30A405-60A4-4E08-931A-1A918418692B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6E874A-D0B2-4900-AC10-5599D90E3F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6E874A-D0B2-4900-AC10-5599D90E3F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6E874A-D0B2-4900-AC10-5599D90E3F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6E874A-D0B2-4900-AC10-5599D90E3F2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

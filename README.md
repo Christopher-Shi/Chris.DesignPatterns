@@ -19,6 +19,7 @@
 ### 创建型：负责对象创建
 
     C#设计模式(1)——单例模式（Singleton Pattern）Chris.DesignPatterns.Singleton
+    Singleton单件模式解决的是实体对象个数的问题
     
     C#设计模式(2)——工厂方法模式（Factory Pattern）Chris.DesignPatterns.Factory
     
@@ -31,18 +32,25 @@
 ### 结构型：处理类与对象间的组合
 
     C#设计模式(6)——适配器模式（Adapter Pattern）Chris.DesignPatterns.Adapter
+    适配器模式注重转换接口，将不吻合的接口适配对接
     
     C#设计模式(7)——桥接模式（Bridge Pattern）Chris.DesignPatterns.Bridge
+    桥接模式注重分离接口与其实现，支持多维度变化
     
     C#设计模式(8)——装饰模式（Decorator Pattern）Chris.DesignPatterns.Decorator
+    装饰者模式注重稳定接口，在此前提下为对象扩展功能
     
     C#设计模式(9)——组合模式（Composite Pattern）Chris.DesignPatterns.Composite
+    组合模式注重统一接口，将“一对多”的关系转化为“一对一”的关系
     
     C#设计模式(10)——外观模式（Facade Pattern）Chris.DesignPatterns.Facade
+    外观模式注重简化接口，简化组件系统与外部客户程序的依赖关系
     
     C#设计模式(11)——享元模式（Flyweight Pattern）Chris.DesignPatterns.Flyweight
+    享元模式注重保留接口，在内部使用共享技术对对象存储进行优化
     
-    C#设计模式(12)——代理模式（Proxy Pattern）
+    C#设计模式(12)——代理模式（Proxy Pattern）Chris.DesignPatterns.Proxy
+    代理模式注重假借接口，增加间接层来实现灵活控制
 
 ### 行为型：类与对象交互中的职责分配
 

@@ -8,20 +8,27 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sxy01\\.nuget\\packages\\": {}
+    "C:\\Users\\sxy01\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
+      "projectUniqueName": "D:\\Project\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
       "projectName": "Chris.DesignPatterns.Singleton",
-      "projectPath": "C:\\Projects\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
+      "projectPath": "D:\\Project\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
       "packagesPath": "C:\\Users\\sxy01\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\obj\\",
+      "outputPath": "D:\\Project\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\sxy01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
