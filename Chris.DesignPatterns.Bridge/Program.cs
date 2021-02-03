@@ -2,6 +2,9 @@
 
 namespace Chris.DesignPatterns.Bridge
 {
+    /// <summary>
+    /// 桥接模式（Bridge Pattern）
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

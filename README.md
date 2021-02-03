@@ -32,15 +32,15 @@
 
     C#设计模式(6)——适配器模式（Adapter Pattern）Chris.DesignPatterns.Adapter
     
-    C#设计模式(7)——桥接模式（Bridge Pattern）
+    C#设计模式(7)——桥接模式（Bridge Pattern）Chris.DesignPatterns.Bridge
     
-    C#设计模式(8)——装饰模式（Decorator Pattern）
+    C#设计模式(8)——装饰模式（Decorator Pattern）Chris.DesignPatterns.Decorator
     
-    C#设计模式(9)——组合模式（Composite Pattern）
+    C#设计模式(9)——组合模式（Composite Pattern）Chris.DesignPatterns.Composite
     
-    C#设计模式(10)——外观模式（Facade Pattern）
+    C#设计模式(10)——外观模式（Facade Pattern）Chris.DesignPatterns.Facade
     
-    C#设计模式(11)——享元模式（Flyweight Pattern）
+    C#设计模式(11)——享元模式（Flyweight Pattern）Chris.DesignPatterns.Flyweight
     
     C#设计模式(12)——代理模式（Proxy Pattern）
 
