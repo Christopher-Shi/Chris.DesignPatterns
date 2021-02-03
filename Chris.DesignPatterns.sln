@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Abstra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Builder", "hris.DesignPatterns.Builder\Chris.DesignPatterns.Builder.csproj", "{F2CB816E-B4B8-4CB6-9815-5F6ABF01A47F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Prototype", "Chris.DesignPatterns.Prototype\Chris.DesignPatterns.Prototype.csproj", "{DD42A4B7-4017-4106-8C18-818EB834E506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Prototype", "Chris.DesignPatterns.Prototype\Chris.DesignPatterns.Prototype.csproj", "{DD42A4B7-4017-4106-8C18-818EB834E506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Adapter", "Chris.DesignPatterns.Adapter\Chris.DesignPatterns.Adapter.csproj", "{1BF61152-2CB4-426C-8487-9E9628C1C87C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Adapter", "Chris.DesignPatterns.Adapter\Chris.DesignPatterns.Adapter.csproj", "{1BF61152-2CB4-426C-8487-9E9628C1C87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Bridge", "Chris.DesignPatterns.Bridge\Chris.DesignPatterns.Bridge.csproj", "{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF61152-2CB4-426C-8487-9E9628C1C87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885C7F8E-505D-43E3-998B-8DC0B0C4AF4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
