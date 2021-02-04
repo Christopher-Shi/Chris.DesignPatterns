@@ -33,17 +33,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Comman
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Iterator", "Chris.DesignPatterns.Iterator\Chris.DesignPatterns.Iterator.csproj", "{BAF11C95-83D8-43DB-992A-7F33A9AC1A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Observer", "Chris.DesignPatterns.Observer\Chris.DesignPatterns.Observer.csproj", "{8ECEA589-798D-4FF9-86D8-DB8CC7AF5FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Observer", "Chris.DesignPatterns.Observer\Chris.DesignPatterns.Observer.csproj", "{8ECEA589-798D-4FF9-86D8-DB8CC7AF5FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Mediator", "Chris.DesignPatterns.Mediator\Chris.DesignPatterns.Mediator.csproj", "{27DAF84D-CEF9-4931-B0CA-CDDE65A85A27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Mediator", "Chris.DesignPatterns.Mediator\Chris.DesignPatterns.Mediator.csproj", "{27DAF84D-CEF9-4931-B0CA-CDDE65A85A27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.State", "Chris.DesignPatterns.State\Chris.DesignPatterns.State.csproj", "{19627D96-5629-40F0-979C-96DC9DF1A3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.State", "Chris.DesignPatterns.State\Chris.DesignPatterns.State.csproj", "{19627D96-5629-40F0-979C-96DC9DF1A3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Strategy", "Chris.DesignPatterns.Stragety\Chris.DesignPatterns.Strategy.csproj", "{6336EBF0-1D69-4657-BF85-EC96F9B4558D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Strategy", "Chris.DesignPatterns.Stragety\Chris.DesignPatterns.Strategy.csproj", "{6336EBF0-1D69-4657-BF85-EC96F9B4558D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.ChainOfResponsibility", "Chris.DesignPatterns.ChainOfResponsibility\Chris.DesignPatterns.ChainOfResponsibility.csproj", "{9CF5CD9C-5D1B-4BE8-A265-0FD86377DA05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.ChainOfResponsibility", "Chris.DesignPatterns.ChainOfResponsibility\Chris.DesignPatterns.ChainOfResponsibility.csproj", "{9CF5CD9C-5D1B-4BE8-A265-0FD86377DA05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Visitor", "Chris.DesignPatterns.Vistor\Chris.DesignPatterns.Visitor.csproj", "{0C4F5617-C4A1-4245-8D36-5F2CE0F54C59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chris.DesignPatterns.Visitor", "Chris.DesignPatterns.Vistor\Chris.DesignPatterns.Visitor.csproj", "{0C4F5617-C4A1-4245-8D36-5F2CE0F54C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Memento", "Chris.DesignPatterns.Memento\Chris.DesignPatterns.Memento.csproj", "{137BF648-7422-4E34-8FD0-34187C3DFC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chris.DesignPatterns.Interpreter", "Chris.DesignPatterns.Interpreter\Chris.DesignPatterns.Interpreter.csproj", "{A1767E2A-C898-42AB-AFB6-C98576722440}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{0C4F5617-C4A1-4245-8D36-5F2CE0F54C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C4F5617-C4A1-4245-8D36-5F2CE0F54C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C4F5617-C4A1-4245-8D36-5F2CE0F54C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137BF648-7422-4E34-8FD0-34187C3DFC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137BF648-7422-4E34-8FD0-34187C3DFC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137BF648-7422-4E34-8FD0-34187C3DFC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137BF648-7422-4E34-8FD0-34187C3DFC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1767E2A-C898-42AB-AFB6-C98576722440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1767E2A-C898-42AB-AFB6-C98576722440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1767E2A-C898-42AB-AFB6-C98576722440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1767E2A-C898-42AB-AFB6-C98576722440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

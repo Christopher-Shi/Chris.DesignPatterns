@@ -72,6 +72,6 @@
     
     C#设计模式(21)——访问者模式（Visitor Pattern）Chris.DesignPatterns.Visitor
     
-    C#设计模式(22)——备忘录模式（Memento Pattern）
+    C#设计模式(22)——备忘录模式（Memento Pattern）Chris.DesignPatterns.Memento
     
-    C#设计模式(23)——解释器模式（Interpreter Pattern）
+    C#设计模式(23)——解释器模式（Interpreter Pattern）Chris.DesignPatterns.Interpreter

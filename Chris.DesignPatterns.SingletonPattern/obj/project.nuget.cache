@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmUqhVfCj9qRm5FuOxkFrK7VWo+1WLWYkVlm7mmLmYosDLrd0KNKRJViIEH6eNjMf7R/VvogATVqIMLRIP+9SA==",
+  "dgSpecHash": "DTPFMDb9r+k369msIiINdQBVV9eDdzF8XNcGyFYn8o7yxSBCYdY9UmHwm5txcELZjOZohlZvBLB4lYF3mYCTyg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
+  "projectFilePath": "D:\\Project\\Personnel\\Chris.DesignPatterns\\Chris.DesignPatterns.SingletonPattern\\Chris.DesignPatterns.Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
