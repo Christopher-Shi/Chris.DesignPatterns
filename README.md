@@ -60,17 +60,17 @@
     
     C#设计模式(15)——迭代器模式（Iterator Pattern）Chris.DesignPatterns.Iterator
     
-    C#设计模式(16)——观察者模式（Observer Pattern）
+    C#设计模式(16)——观察者模式（Observer Pattern）Chris.DesignPatterns.Observer
     
-    C#设计模式(17)——中介者模式（Mediator Pattern）
+    C#设计模式(17)——中介者模式（Mediator Pattern）Chris.DesignPatterns.Mediator
     
-    C#设计模式(18)——状态模式（State Pattern）
+    C#设计模式(18)——状态模式（State Pattern）Chris.DesignPatterns.State
     
-    C#设计模式(19)——策略模式（Stragety Pattern）
+    C#设计模式(19)——策略模式（Strategy Pattern）Chris.DesignPatterns.Strategy
     
-    C#设计模式(20)——责任链模式（Chain of Responsibility Pattern）
+    C#设计模式(20)——责任链模式（Chain of Responsibility Pattern）Chris.DesignPatterns.ChainOfResponsibility
     
-    C#设计模式(21)——访问者模式（Vistor Pattern）
+    C#设计模式(21)——访问者模式（Visitor Pattern）Chris.DesignPatterns.Visitor
     
     C#设计模式(22)——备忘录模式（Memento Pattern）
     
