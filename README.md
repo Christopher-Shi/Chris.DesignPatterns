@@ -54,11 +54,11 @@
 
 ### 行为型：类与对象交互中的职责分配
 
-    C#设计模式(13)——模板方法模式（Template Method）
+    C#设计模式(13)——模板方法模式（Template Method）Chris.DesignPatterns.Template
     
-    C#设计模式(14)——命令模式（Command Pattern）
+    C#设计模式(14)——命令模式（Command Pattern）Chris.DesignPatterns.Command
     
-    C#设计模式(15)——迭代器模式（Iterator Pattern）
+    C#设计模式(15)——迭代器模式（Iterator Pattern）Chris.DesignPatterns.Iterator
     
     C#设计模式(16)——观察者模式（Observer Pattern）
     
