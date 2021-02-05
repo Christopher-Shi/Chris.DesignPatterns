@@ -34,7 +34,7 @@ namespace Chris.DesignPatterns.Interpreter.Expression
             {
                 if (context.Statement.EndsWith(GetPostFix()))
                 {
-                    int temp = context.Data;
+                    var temp = context.Data;
                     context.Data = 0;
 
                     context.Statement = context.Statement.Substring(0, context.Statement.Length - this.GetLength());

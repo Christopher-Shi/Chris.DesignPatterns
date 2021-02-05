@@ -7,7 +7,7 @@ namespace Chris.DesignPatterns.Interpreter.Expression
     /// </summary>
     public abstract class Expression
     {
-        protected Dictionary<string, int> table = new Dictionary<string, int>(9);
+        protected Dictionary<string, int> table = new(9);
 
         protected Expression()
         {
